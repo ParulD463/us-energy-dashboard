@@ -1,5 +1,5 @@
 # Overview
-### This dashboard explores how the United States generates electricity and how the energy mix has transformed over the past two decades. Built using Power BI Desktop with publicly ### available data from the U.S. Energy Information Administration (EIA).
+### This dashboard explores how the United States generates electricity and how the energy mix has transformed over the past two decades. Built using Power BI Desktop with publicly available data from the U.S. Energy Information Administration (EIA).
 
 ## Key Insights
 1. Coal generation has fallen over 65% since 2001
