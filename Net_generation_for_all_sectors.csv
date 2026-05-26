@@ -1,0 +1,14 @@
+"Net generation for all sectors"
+"https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2,0,1&fuel=9884&geo=g&sec=g&freq=A&start=2001&end=2025&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Thu May 21 2026 15:53:40 GMT-0700 (Pacific Daylight Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024","2025"
+"Net generation for all sectors","thousand megawatthours",,,,,,,,,,,,,,,,,,,,,,,,,,
+"United States",,"ELEC.GEN..A",,,,,,,,,,,,,,,,,,,,,,,,,
+"United States : all fuels (utility-scale)",,"ELEC.GEN.ALL-US-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"United States : coal","thousand megawatthours","ELEC.GEN.COW-US-99.A",1903956,1933130,1973737,1978301,2012873,1990511,2016456,1985801,1755904,1847290,1733430,1514043,1581115,1581710,1352398,1239149,1205835,1149487,964957,773393,897999,831512,675115,652156,737151
+"United States : natural gas","thousand megawatthours","ELEC.GEN.NG-US-99.A",639129,691006,649908,710100,760960,816441,896590,882981,920979,987697,1013689,1225894,1124836,1126635,1334668,1379271,1297703,1471843,1588533,1626790,1579190,1687065,1806063,1869902,1807338
+"United States : nuclear","thousand megawatthours","ELEC.GEN.NUC-US-99.A",768826,780064,763733,788528,781986,787219,806425,806208,798855,806968,790204,769331,789016,797166,797178,805694,804950,807084,809409,789879,779645,771537,774873,781865,784781
+"United States : other renewables",,"ELEC.GEN.AOR-US-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"United States : wind","thousand megawatthours","ELEC.GEN.WND-US-99.A",6737,10354,11187,14144,17811,26589,34450,55363,73886,94652,120177,140822,167840,181655,190719,226993,254303,272667,295882,337938,378197,434297,421141,451904,464391
+"United States : all solar","thousand megawatthours","ELEC.GEN.TSN-US-99.A","--","--","--","--","--","--","--","--","--","--","--","--","--",28924,39032,54866,77277,93365,106894,130721,164422,205074,238937,303752,388820
